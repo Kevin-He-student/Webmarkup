@@ -1,0 +1,5 @@
+Student name: Kevin He
+Student number: 739376
+Student class: IT1B
+GitHub Repository: https://github.com/Kevin-He-student/Webmarkup.git
+GitHub Pages URL: https://kevin-he-student.github.io/Webmarkup/
